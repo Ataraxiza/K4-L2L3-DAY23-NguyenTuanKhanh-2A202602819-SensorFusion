@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Nguyễn Tuấn Khanh
+- MSSV: 2A202602819
+- Email: tuankhan1245@gmail.com
+- Link repo (fork): https://github.com/Ataraxiza/K4-L2L3-DAY23-NguyenTuanKhanh-2A202602819-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả

@@ -35,9 +35,9 @@ pytest student/tests -q
 fusion-run-lab --help
 ls data/Waymo/*.tfrecord data/weights/pretrained_fpn-resnet/*.pth
 ```
-- [ ] `pytest` không có dòng `failed`; test E–H báo `xfailed`.
-- [ ] `fusion-run-lab --help` in hướng dẫn, không lỗi import.
-- [ ] Thấy file `.tfrecord` và `.pth`.
+- [X] `pytest` không có dòng `failed`; test E–H báo `xfailed`.
+- [X] `fusion-run-lab --help` in hướng dẫn, không lỗi import.
+- [X] Thấy file `.tfrecord` và `.pth`.
 
 ---
 
