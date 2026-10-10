@@ -8,7 +8,7 @@
 - MSSV: 2A202602819
 - Email: tuankhan1245@gmail.com
 - Link repo (fork): https://github.com/Ataraxiza/K4-L2L3-DAY23-NguyenTuanKhanh-2A202602819-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`):
+- Commit hash nộp (`git rev-parse HEAD`): ef61ede14458c8dcfba84de7f46a73a1ac892dcb
 
 ## Tóm tắt kết quả
 
