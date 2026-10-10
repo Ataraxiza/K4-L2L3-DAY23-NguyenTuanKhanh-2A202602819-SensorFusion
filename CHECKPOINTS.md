@@ -57,7 +57,7 @@ ls data/Waymo/*.tfrecord data/weights/pretrained_fpn-resnet/*.pth
 ```bash
 pytest student/tests/test_kalman.py -v
 ```
-- [ ] Tất cả `passed`. Commit `CP1: ...`.
+- [x] Tất cả `passed`. Commit `CP1: ...`.
 
 ---
 
@@ -77,7 +77,7 @@ pytest student/tests/test_kalman.py -v
 ```bash
 pytest student/tests -v -k "camera_invalid or camera_front or camera_jacobian or camera_fov or student_camera"
 ```
-- [ ] Tất cả `passed`. Commit `CP2: ...`.
+- [X] Tất cả `passed`. Commit `CP2: ...`.
 
 ---
 
